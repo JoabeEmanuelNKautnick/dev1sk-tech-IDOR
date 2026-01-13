@@ -98,8 +98,7 @@ Para uso real em produção, é necessário:
 
 ## Licença
 
-Defina aqui a licença do projeto (por exemplo, MIT, GPL ou uso estritamente educacional), de acordo com como você pretende disponibilizar o código.[^9]
-<span style="display:none">[^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42]</span>
+MIT License
 
 <div align="center">⁂</div>
 
